@@ -57,11 +57,7 @@ public class TransformOperations : MonoBehaviour
 }
 ```
 ### Output:
-![Uploading image.png…]()
-
-
-
-
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/293a3dea-e8dc-432a-8176-f91d1f34de1f" />
 
 
 
